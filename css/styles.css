@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin:0%;
+    padding: 0%;
+} 
+.borde{
+    border: 1px solid black;
+}
+.contenedor{
+    width: 600px;
+    height: 200px;
+    background: beige;
+}
+
