@@ -6,7 +6,7 @@
 } 
 /* Borde */
 .borde{
-    border: 2px solid black;
+    border: 1px solid #CCC;
 }
 /* Texto */
 .titulo{
@@ -14,9 +14,13 @@
     height: 50px;
     background-color: black;
 }
-/* Color gris */
-.color-gris{
-    background-color: gray;
+/* Color gris oscuro */
+.color-gris-oscuro{
+    background-color: #777;
+}
+/* Color Gris Claro */
+.color-gris-claro{
+    background-color: #AAA;
 }
 /* Color rojo */
 .color-rojo{
@@ -27,7 +31,7 @@
 }
 /* Color Verde */
 .color-verde{
-    background-color: green;
+    background-color: green; 
 }
 /* Color Azul */
 .color-azul{
@@ -55,7 +59,7 @@ nav{
     width: 65%;
     height: 100%;
     float: left;
-    background-color: orange;
+    background-color: #EF8814;
 }
 .ingreso{
     width: 15%;
