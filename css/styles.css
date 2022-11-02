@@ -21,6 +21,9 @@
 /* Color rojo */
 .color-rojo{
     background-color: red;
+    background-color: rgb(255,0,0);
+    background-color: #F00;
+    background-color: #FF0000;
 }
 /* Color Verde */
 .color-verde{
