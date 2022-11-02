@@ -12,6 +12,23 @@
 .titulo{
     width: 100%;
     height: 50px;
+    background-color: black;
+}
+/* Color gris */
+.color-gris{
+    background-color: gray;
+}
+/* Color rojo */
+.color-rojo{
+    background-color: red;
+}
+/* Color Verde */
+.color-verde{
+    background-color: green;
+}
+/* Color Azul */
+.color-azul{
+    background-color: blue;
 }
 /* Contenedor */
 .contenedor{
@@ -29,16 +46,19 @@ nav{
     width: 20%;
     height: 100%;
     float: left;
+    background-color: grey;
 }
 .menu{
     width: 65%;
     height: 100%;
     float: left;
+    background-color: orange;
 }
 .ingreso{
     width: 15%;
     height: 100%;
     float: left;
+    background-color: black;
 }
 /* Encabezado */
 header{
@@ -70,4 +90,29 @@ section{
     width: 20%;
     height: 100%;
     float: left;
+}
+.nos.col.cnt{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+/* Contactenos */
+.cont-col{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.cont-fila-arr{
+    width: 100%;
+    height: 70%;
+}
+.cont-fila-abj{
+    width: 100%;
+    height: 30%;
+}
+/* Pie de Página */
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: black;
 }
